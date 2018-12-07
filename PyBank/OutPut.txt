@@ -1,0 +1,12 @@
+
+Financial Analysis
+----------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -2315.12
+Greatest Increase in Profits: Feb-12 ($1926159)
+Greatest Decrease in Profits: Sep-13 ($-2196167)
+Traceback (most recent call last):
+  File "c:\Users\user\Desktop\python-challenge\PyBank\main.py", line 57, in <module>
+    with open(output_file,"w") as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'python-challenge\\PyBank\\Financial_Analysis_Summary.txt'
