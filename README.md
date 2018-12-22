@@ -1,2 +1,2 @@
-# python-challenge
+# Python-challenge
 SMUBootcamp Homework Unit 3 Assignment - Py Me Up, Charlie
